@@ -1,0 +1,7 @@
+D:\exp\C#Sharp Bro Code\C# Beginner-Level\C#sharp2\C#sharp2\bin\Debug\C#sharp2.exe.config
+D:\exp\C#Sharp Bro Code\C# Beginner-Level\C#sharp2\C#sharp2\bin\Debug\C#sharp2.exe
+D:\exp\C#Sharp Bro Code\C# Beginner-Level\C#sharp2\C#sharp2\bin\Debug\C#sharp2.pdb
+D:\exp\C#Sharp Bro Code\C# Beginner-Level\C#sharp2\C#sharp2\obj\Debug\C#sharp2.csproj.AssemblyReference.cache
+D:\exp\C#Sharp Bro Code\C# Beginner-Level\C#sharp2\C#sharp2\obj\Debug\C#sharp2.csproj.CoreCompileInputs.cache
+D:\exp\C#Sharp Bro Code\C# Beginner-Level\C#sharp2\C#sharp2\obj\Debug\C#sharp2.exe
+D:\exp\C#Sharp Bro Code\C# Beginner-Level\C#sharp2\C#sharp2\obj\Debug\C#sharp2.pdb
