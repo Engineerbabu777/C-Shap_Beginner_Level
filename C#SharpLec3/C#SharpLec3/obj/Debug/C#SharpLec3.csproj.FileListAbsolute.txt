@@ -1,0 +1,7 @@
+D:\exp\C#Sharp Bro Code\C# Beginner-Level\C#SharpLec3\C#SharpLec3\bin\Debug\C#SharpLec3.exe.config
+D:\exp\C#Sharp Bro Code\C# Beginner-Level\C#SharpLec3\C#SharpLec3\bin\Debug\C#SharpLec3.exe
+D:\exp\C#Sharp Bro Code\C# Beginner-Level\C#SharpLec3\C#SharpLec3\bin\Debug\C#SharpLec3.pdb
+D:\exp\C#Sharp Bro Code\C# Beginner-Level\C#SharpLec3\C#SharpLec3\obj\Debug\C#SharpLec3.csproj.AssemblyReference.cache
+D:\exp\C#Sharp Bro Code\C# Beginner-Level\C#SharpLec3\C#SharpLec3\obj\Debug\C#SharpLec3.csproj.CoreCompileInputs.cache
+D:\exp\C#Sharp Bro Code\C# Beginner-Level\C#SharpLec3\C#SharpLec3\obj\Debug\C#SharpLec3.exe
+D:\exp\C#Sharp Bro Code\C# Beginner-Level\C#SharpLec3\C#SharpLec3\obj\Debug\C#SharpLec3.pdb
